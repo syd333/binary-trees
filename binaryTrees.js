@@ -5,6 +5,11 @@
 // HTML DOM (tree structure) = parent/child relationships
 
 // ** BINARY TREE
+
+//BIG 0 NOTATION // (NOT guaranteed)
+// insert = O(log n)
+// search = O(log n)
+
 // at most each node can have 2 children
 // BTS are sorted in particular way
 // used to store data that can be compared and sortable
